@@ -19,7 +19,6 @@ import com.qbo.service.CursoService;
 @RequestMapping("api/v1/curso")
 public class CursoController {
 	
-	
 	@Autowired
 	private CursoService cursoService;
 	
